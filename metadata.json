@@ -1,0 +1,6 @@
+{
+  "name": "Sandwraith — The Mechanical Sandworm",
+  "description": "Interactive 3D WebGL engineering showcase featuring a colossal 180-segment autonomous biomechanical sandworm traversing an endless desert landscape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
