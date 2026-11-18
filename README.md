@@ -96,9 +96,8 @@ Open the local URL displayed in your terminal.
 Inspired by speculative creature design, subterranean locomotion, biological movement systems and the science-fiction concept of colossal desert sandworms.
 #Dune
 
----
+---<img width="1200" height="675" alt="dune 1" src="https://github.com/user-attachments/assets/5be559ad-a23b-480a-8ada-c02f5eb2c024" />
 
-**Designed & developed by Miksha (Sky)** ♡
 
-*An exploration of procedural animation, interactive 3D environments and the engineering of impossible creatures.*
+
 
